@@ -1,6 +1,6 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import { connect } from './cred.json'
+import { connect } from '../cred.json'
 import routes from './routes';
 
 class App {

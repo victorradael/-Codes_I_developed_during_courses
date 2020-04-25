@@ -1,0 +1,8 @@
+{
+  "name": "Nodejs_curso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victorradael/NodeJs_Course.git",
+  "author": "<victorradael@hotmail.com>",
+  "license": "MIT"
+}

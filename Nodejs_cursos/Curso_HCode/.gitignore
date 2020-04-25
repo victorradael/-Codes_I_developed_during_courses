@@ -1,7 +1,0 @@
-#Arquivos e pastas que devem ser ignorados pelo git
-
-node_modules/
-file.txt
-
-*.zip
-*.rar

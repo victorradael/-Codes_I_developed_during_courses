@@ -1,0 +1,48 @@
+#conteudo {
+    padding: 30px 0px;
+}
+
+#cabPrincipal {
+    padding-top: 50px;
+    color: #ecf0f1;
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: bold;
+    align-self: center;
+}
+
+#divCabPrincipal {
+    background-image: url('blake-connally-IKUYGCFmfw4-unsplash.jpg');
+    background-size: 1360px;
+    background-position-y: -300px;
+    width: 1366px;
+    height: 250px;
+    padding: 10px;
+    overflow: hidden;
+    
+
+}
+
+#navega {
+    background-color: #8e44ad;
+}
+
+button  {
+    color: #ecf0f1;
+    background-color: #8e44ad;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius:  5px;
+    border: solid 2px  #ecf0f1;
+}
+button:hover  {
+    background-color: #ecf0f1;
+    color: #8e44ad;
+}
+
+body {
+    margin: 0;
+    background-color: #dbbfe7;
+    box-sizing: border-box;
+}
